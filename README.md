@@ -1,12 +1,10 @@
-# uni-stuttgart-beamer-template
+#SSExplorer-beamer-template
 
 This is an unofficial L<sup>A</sup>T<sub>E</sub>X template for Beamer
-presentations by and for members of the University of Stuttgart,
-Germany, following the new corporate design the university has given
-itself in 2016.
+presentations by and for members of the SS Explorer of Telecommunication Engineering, Telkom University, Indonesia
 
-The template is private work by members of the University of Stuttgart.
-It is not endorsed by the University of Stuttgart or any of its
+The template is private work by members of the University of Stuttgart, and modified for weekly presentation usage in SS Explorer scope.
+It is not endorsed by the University of Stuttgart, Telkom University or any of its
 institutions, institutes, or departments.
 The template is made available to the public as we think it might
 be useful for other people.
