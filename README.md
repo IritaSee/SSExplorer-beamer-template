@@ -1,4 +1,4 @@
-#SSExplorer-beamer-template
+# SSExplorer-beamer-template
 
 This is an unofficial L<sup>A</sup>T<sub>E</sub>X template for Beamer
 presentations by and for members of the SS Explorer of Telecommunication Engineering, Telkom University, Indonesia
